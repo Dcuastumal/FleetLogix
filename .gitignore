@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Variables privadas
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos generados por el programa
+*.log
+generation_summary.json
+
+# Configuración de VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
