@@ -413,7 +413,7 @@ class DataGenerator:
                     tracking_number,
                     customer_name,
                     delivery_address,
-                    round(package_weight, 2),
+                    float(round(package_weight, 2)),
                     scheduled,
                     delivered,
                     delivery_status,
@@ -655,10 +655,10 @@ def main():
             return
         
         # Generar datos en orden (respetando foreign keys)
-        generator.generate_vehicles(200)
-        generator.generate_drivers(400)
-        generator.generate_routes(50)
-        generator.generate_trips(100000)
+        #generator.generate_vehicles(200)
+        #generator.generate_drivers(400)
+        #generator.generate_routes(50)
+        #generator.generate_trips(100000)
         generator.generate_deliveries(400000)
         generator.generate_maintenance(5000)
         
