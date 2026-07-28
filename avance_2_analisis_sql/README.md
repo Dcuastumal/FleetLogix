@@ -92,11 +92,11 @@ Con ello fue posible obtener:
 
 ### Ejemplo de consulta sencilla
 
-![Consulta Q1](evidencias/q1_explain.png)
+![Consulta Q1](evidencias/despues/q1_explain.png)
 
 ### Ejemplo de consulta compleja
 
-![Consulta Q9](evidencias/q9_explain.png)
+![Consulta Q9](evidencias/despues/q9_explain.png)
 
 ---
 
