@@ -72,7 +72,7 @@ Este script creó índices sobre las tablas más utilizadas por las consultas an
 
 Para verificar la correcta creación de los índices, se consultó la vista del sistema `pg_indexes`, donde se muestran los índices generados para las tablas del proyecto.
 
-![Índices creados](evidencias/indices_creados.png)
+![Índices creados](evidencias/Indices_creados.png)
 
 ---
 
